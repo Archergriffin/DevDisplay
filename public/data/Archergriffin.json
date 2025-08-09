@@ -1,0 +1,13 @@
+{
+  "name": "Archita Gupta",
+  "location": "Kolkata,West Bengal",
+  "bio": "I am 3rd year B.tech student studying CSBS,contributing first time in open source",
+  "skills": ["Python", "Java", "c"],
+  "social": {
+    "GitHub": "https://github.com/Archergriffin",
+    "LinkedIn": "https://www.linkedin.com/in/",
+    "Email": "architagupta441081@gmail.com",
+    "Discord": "https://discord.com/users/archergriffin",
+    "LeetCode": "https://leetcode.com/Archita01"
+  }
+}
